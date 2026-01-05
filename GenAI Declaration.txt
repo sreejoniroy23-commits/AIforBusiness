@@ -1,0 +1,49 @@
+Appendix A: GenAI Declaration (Coding, Modelling, and Reporting)
+
+In this assignment, ChatGPT (GPT-5), developed by OpenAI, was used within the permitted scope as a support tool for learning, clarification, and proofreading.
+
+Tool Details
+
+Name & Version: ChatGPT (GPT-5)
+
+Publisher: OpenAI
+
+URL: https://chat.openai.com
+
+Description of Use
+
+Generative AI was used to support this AI for Business project in the following ways:
+
+assisting with debugging specific Python coding errors in Jupyter notebooks,
+
+clarifying the use, purpose, and interpretation of machine-learning techniques (e.g., train/validation/test splits, model evaluation metrics, PCA, clustering, and topic modelling),
+
+supporting understanding of model outputs and explainability methods,
+
+helping structure and improve the clarity and readability of markdown explanations within notebooks,
+
+assisting with the organisation and documentation of the project (e.g., README file and explanatory text), and
+
+improving the academic tone, structure, and coherence of selected sections of the written report.
+
+Generative AI was used strictly as a supportive tool for clarification, learning, and proofreading. All modelling decisions, coding logic, feature engineering, interpretations, and conclusions were independently developed, reviewed, adapted, and validated by us to ensure they accurately reflect the dataset, analytical process, and assignment requirements.
+
+Examples of Prompts Used
+
+“Help me debug this Python error in my notebook.”
+
+“Can you explain what this model evaluation output means?”
+
+“Which modelling approach is appropriate in this context?”
+
+“How can I explain this result more clearly for a business audience?”
+
+“Can you help structure a README so the workflow is easy to follow?”
+
+Scope of AI Assistance
+
+Generative AI provided supportive guidance across the project by clarifying concepts, explaining error messages, improving documentation, and strengthening the academic and business-oriented presentation of the work. All AI-assisted content was critically evaluated, rewritten where necessary, and verified by us before inclusion.
+
+Student Declaration
+
+We take full responsibility for the content of this assignment, including all coding, modelling choices, data preparation steps, interpretations, and written outputs. We acknowledge the limitations and risks associated with generative AI tools and confirm that all AI-generated suggestions were critically assessed and validated. No unauthorised sources were used, and no material was copied from other students.
