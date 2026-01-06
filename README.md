@@ -29,7 +29,7 @@ This notebook:
 ---
 
 ### 2️ Supervised modelling (main analysis)
-**Notebook:** `Notebook2_modelling_Jan4.ipynb`
+**Notebook:** `Notebook2_modelling_Jan6.ipynb`
 
 This is the **core modelling notebook** .
 
