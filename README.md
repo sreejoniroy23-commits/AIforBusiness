@@ -16,7 +16,7 @@ The project is structured as a **three-notebook pipeline**, designed to be read 
 ## Recommended reading & execution order
 
 ### 1 Data cleaning & exploratory analysis
-**Notebook:** `Final_Notebook1_cleaning_and_EDA_Jan4.ipynb`
+**Notebook:** `Final_Notebook1_cleaning_and_EDA_Jan6.ipynb`
 
 This notebook:
 - Loads and cleans the raw/merged movie dataset
