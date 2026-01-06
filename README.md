@@ -29,7 +29,8 @@ This notebook:
 ---
 
 ### 2️ Supervised modelling (main analysis)
-**Notebook:** `Notebook2_modelling_Jan6.ipynb`
+**Notebook:** `Final_Notebook2_modelling_Jan6.ipynb
+`
 
 This is the **core modelling notebook** .
 
@@ -42,7 +43,7 @@ It includes:
 ---
 
 ### 3️ Clustering & BERTopic (unsupervised insights)
-**Notebook:** `Clustering+BERTopic.ipynb`
+**Notebook:** `Final_Notebook3_Clustering+BERTopic_January6.ipynb`
 
 This notebook provides:
 - Unsupervised clustering of movies
