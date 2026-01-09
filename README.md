@@ -16,7 +16,7 @@ The project is structured as a **three-notebook pipeline**, designed to be read 
 ## Recommended reading & execution order
 
 ### 1 Data cleaning & exploratory analysis
-**Notebook:** `Final_Notebook1_cleaning_and_EDA_Jan6.ipynb`
+**Notebook:** `Final_Notebook1_Data Preparation, EDA, & Feature Construction.ipynb'
 
 This notebook:
 - Loads and cleans the raw/merged movie dataset
@@ -43,7 +43,7 @@ It includes:
 ---
 
 ### 3️ Clustering & BERTopic (unsupervised insights)
-**Notebook:** `Final_Notebook3_Clustering+BERTopic_January6.ipynb`
+**Notebook:** `Final_Notebook3_BONUS_Questions+Conclusion.ipynb'
 
 This notebook provides:
 - Unsupervised clustering of movies
